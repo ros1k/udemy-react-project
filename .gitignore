@@ -1,0 +1,8 @@
+backend-react-project/node_modules
+backend-react-project/package-lock.json
+frontend-react-project/node_modules
+frontend-react-project/build
+frontend-react-project/.vscode
+frontend-react-project/package-lock.json
+build
+.vscode
