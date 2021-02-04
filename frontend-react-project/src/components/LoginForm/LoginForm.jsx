@@ -38,7 +38,7 @@ const LoginForm = ({handleOnClose,isModalOpen}) => {
          {login, password}
          );
          if(status === 200){
-            console.log(data.user)
+           
             setUser(data.user);
             resetStateOfInput();
             handleOnClose();
